@@ -1,0 +1,91 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 2,
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 3,
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 4,
+      "name": "abhishek",
+      "email": "abhishek@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 5,
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 6,
+      "name": "abhishek",
+      "email": "abhishek@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 8,
+      "name": "abhishek",
+      "email": "abhishek@gmail.com",
+      "phone": 9373889923
+    },
+    {
+      "id": 9,
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "phone": 9373889923
+    }
+  ],
+  "bookings": [
+    {
+      "sno": 1,
+      "Datebooking": "30-05-2022",
+      "product": "mobile"
+    },
+    {
+      "sno": 2,
+      "Datebooking": "30-05-2022",
+      "product": "mobile"
+    },
+    {
+      "sno": 3,
+      "Datebooking": "30-05-2022",
+      "product": "mobile"
+    },
+    {
+      "sno": 4,
+      "Datebooking": "30-05-2022",
+      "product": "mobile"
+    }
+  ],
+  "admins": [
+    {
+      "sno": 1,
+      "uname": "abhi1",
+      "mobile": 9847399202
+    },
+    {
+      "sno": 2,
+      "uname": "abhi2",
+      "mobile": 9847399202
+    },
+    {
+      "sno": 3,
+      "uname": "abhi3",
+      "mobile": 9847399202
+    }
+  ]
+}
