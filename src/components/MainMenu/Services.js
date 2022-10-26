@@ -21,7 +21,7 @@ function Services()
                 {
                     ServiceData.map((data,i)=>{
                        return(
-                        <div className="col-lg-4">
+                        <div className="col-lg-4" key={i}>
                     <div className="card text-center text-white p-3" style={{backgroundColor:'#12151c'}}>
                         <div className="card-body">
                             <p className="text-center">

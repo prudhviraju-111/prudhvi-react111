@@ -14,7 +14,7 @@ function ItServices()
     return (<>
          
 <BrowserRouter>
-    <div className="container-fluid">
+    <div class="container-fluid">
                <h2>IT SERVICES</h2>
                <p>IT services refers to the application of business and technical expertise to enable organizations in the creation, management and optimization of or access
 
@@ -23,18 +23,18 @@ function ItServices()
         <div class="coontainer my-5">
            <div class="row">
             
-              <div className="col-lg-3">
-              <ul className="list-group ">
-                 <li className="list-group-item">
+              <div class="col-lg-3">
+              <ul class="list-group ">
+                 <li class="list-group-item">
                     <Link to="/itservices/webApp">WebApplicationService</Link>
                  </li>
-                 <li className="list-group-item">
+                 <li class="list-group-item">
                     <Link to="/itservices/mobileApp">moblieApplicationService</Link>
                  </li>
-                 <li className="list-group-item">
+                 <li class="list-group-item">
                     <Link to="/itservices/uxuiApp">UX-UIDesignService</Link>
                  </li>
-                 <li className="list-group-item">
+                 <li class="list-group-item">
                     <Link to="/itservices/support">ProjectSupportService</Link>
                  </li>
             </ul>

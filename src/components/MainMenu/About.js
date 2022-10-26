@@ -19,7 +19,7 @@ function About()
       <form method="">
         <div className="row">
           <div className="col-md-4">
-            <img src={thapapic} alt="thapa" srcset=""/>
+            <img src={thapapic} alt="thapa" srcSet=""/>
 
           </div>
 
@@ -29,7 +29,7 @@ function About()
 
               <h5>MS Dhoni </h5>
               <h6>Indian cricketer</h6>
-              <p classNameName="profile-rating mt-3 mb-5">RANKINGS: <span></span>1/10</p>
+              <p className="profile-rating mt-3 mb-5">RANKINGS: <span></span>1/10</p>
               
                 <ul className="nav nav-tabs" role="tablist">
                       <li className="nav-item">

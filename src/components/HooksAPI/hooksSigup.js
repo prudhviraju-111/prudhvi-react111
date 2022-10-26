@@ -95,7 +95,7 @@ export default (props) => {
 
 
                 <div className="mb-3">
-                  <label className="form-label">Phone</label>
+                  <label class="form-label">Phone</label>
                    <input type="number" className="form-control"
                     value={phone} name="phone"
                     onChange={ fromDataHanding.bind(this)}/>

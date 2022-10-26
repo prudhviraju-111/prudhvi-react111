@@ -1,12 +1,6 @@
 {
   "user": [
     {
-      "id": 1,
-      "name": "abhi",
-      "email": "abhi@gmail.com",
-      "phone": 9373889923
-    },
-    {
       "id": 2,
       "name": "ravi",
       "email": "ravi@gmail.com",
